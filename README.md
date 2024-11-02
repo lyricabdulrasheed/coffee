@@ -12,6 +12,6 @@ license: cc-by-nc-sa-4.0
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-Project: Coffee Recommendation Bot
+Project: Coffee Recommendation App
 
 This project aims to develop a machine learning model that can accurately predict coffee recommendations based on user preferences. The model will be integrated into a simple bot that provides personalized coffee suggestions.
